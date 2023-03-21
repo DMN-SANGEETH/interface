@@ -1,3 +1,0 @@
-
-onChange={(e) => setSelectedOption({name: e.target.value})}
-ok
